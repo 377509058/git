@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="7" passed="7">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="4541" started-at="2019-12-06T02:05:39Z" finished-at="2019-12-06T02:05:43Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="4541" started-at="2019-12-06T02:05:39Z" finished-at="2019-12-06T02:05:43Z">
+      <class name="com.lemon.cases.Case_ZhuCe">
+        <test-method status="PASS" signature="test(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.lemon.cases.Case_ZhuCe@5f150435]" name="test" duration-ms="1998" started-at="2019-12-06T10:05:40Z" data-provider="datas" finished-at="2019-12-06T10:05:42Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[http://api.lemonban.com/futureloan/member/register]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[{"mobile_phone":"13877788811","pwd":""}]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[post]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[json]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="test(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.lemon.cases.Case_ZhuCe@5f150435]" name="test" duration-ms="102" started-at="2019-12-06T10:05:42Z" data-provider="datas" finished-at="2019-12-06T10:05:42Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[http://api.lemonban.com/futureloan/member/register]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[{"mobile_phone":"","pwd":"12345678"}]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[post]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[json]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="test(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.lemon.cases.Case_ZhuCe@5f150435]" name="test" duration-ms="99" started-at="2019-12-06T10:05:42Z" data-provider="datas" finished-at="2019-12-06T10:05:42Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[http://api.lemonban.com/futureloan/member/register]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[{"mobile_phone":"123","pwd":"12345678"}]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[post]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[json]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="test(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.lemon.cases.Case_ZhuCe@5f150435]" name="test" duration-ms="100" started-at="2019-12-06T10:05:42Z" data-provider="datas" finished-at="2019-12-06T10:05:42Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[http://api.lemonban.com/futureloan/member/register]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[{"mobile_phone":"13877788811","pwd":"123456"}]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[post]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[json]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="test(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.lemon.cases.Case_ZhuCe@5f150435]" name="test" duration-ms="106" started-at="2019-12-06T10:05:42Z" data-provider="datas" finished-at="2019-12-06T10:05:42Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[http://api.lemonban.com/futureloan/member/register]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[{"mobile_phone":"13877788811","pwd":"12345678"}]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[post]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[json]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="test(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.lemon.cases.Case_ZhuCe@5f150435]" name="test" duration-ms="100" started-at="2019-12-06T10:05:42Z" data-provider="datas" finished-at="2019-12-06T10:05:42Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[http://api.lemonban.com/futureloan/member/register]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[{"mobile_phone":"13877788811","pwd":"12345678"}]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[post]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[json]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="test(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.lemon.cases.Case_ZhuCe@5f150435]" name="test" duration-ms="1023" started-at="2019-12-06T10:05:42Z" data-provider="datas" finished-at="2019-12-06T10:05:43Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[http://test.lemonban.com/futureloan/mvc/api/member/register]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[{"mobilephone":"13877788811","pwd":"12345678"}]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[post]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[form]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+      </class> <!-- com.lemon.cases.Case_ZhuCe -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
